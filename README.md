@@ -1,2 +1,0 @@
-# wpa001html
-# templatewp
